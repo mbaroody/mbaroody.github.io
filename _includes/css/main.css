@@ -94,6 +94,8 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    width: 30%;
+    border-radius: 50%;
 }
 
 header .intro-text .name {
